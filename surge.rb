@@ -5,7 +5,7 @@ require 'open-uri'
 require 'CGI'
 
 # Set the image ID here
-IMAGE_MEMEGENERATOR = '27260'
+IMAGE_MEMEGENERATOR = '940'
 
 # Set the repeat amount here
 TO_REPEAT = 1
