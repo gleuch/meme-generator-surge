@@ -1,0 +1,22 @@
+h1. MEME GENERATOR SURGE
+
+Forced meme can be seriously forced with some simple lines of code. Make your image meme to the GOD TIER.
+
+h2. How to Use
+
+  * Select image to use, get the ID number from the URL.
+  * Modify the settings in the surge.rb file.
+  * Set # of times to run.
+  * Run script
+  * ???
+  * PROFIT by making [forced] memes!
+
+h4. Credits
+
+Meme Generator Surge by Greg Leuch <http://www.gleuch.com>
+Released as a Free Art & Technoloy Lab (F.A.T. Lab) project <http://www.fffff.at>
+Copyfree 2010. http://99accounts.gleuch.com
+
+Source Code: http://github.com/gleuch/meme-generator-surge
+
+Many thanks to Liam Cooke for <http://automeme.net> and its wonderful API :)
