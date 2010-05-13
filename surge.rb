@@ -2,7 +2,7 @@
 
 require 'rubygems'
 require 'open-uri'
-require 'CGI'
+require 'cgi'
 
 # Set the image ID here
 IMAGE_MEMEGENERATOR = '940'
